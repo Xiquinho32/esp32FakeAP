@@ -1,5 +1,4 @@
-# esp32FakeAP
-Análise de Vulnerabilidades em Redes Wi-Fi: Implementação de Fake AP com Captive Portal num Dispositivo IoT (ESP32)
+#Análise de Vulnerabilidades em Redes Wi-Fi: Implementação de Fake AP com Captive Portal num Dispositivo IoT (ESP32)
 
 
 Resumo — Este artigo aborda vulnerabilidades em dispositivos IoT exploradas através de redes fraudulentas, especificamente utilizando um Fake Access Point (Fake AP) combinado com um Captive Portal. O trabalho realizado inclui a implementação de um Fake AP baseado no ESP32 e a criação de um Captive Portal programado em C++ no Arduino IDE. Os resultados obtidos destacam a facilidade de exploração de dados sensíveis, como e-mails e palavras-passe, e apresentam recomendações para mitigar esses riscos. O artigo também explora os impactos deste tipo de ataque em locais públicos e a relevância da infraestrutura de rede, como Wi-Fi de 2.4 GHz e protocolos IPv4, no contexto de um Fake AP.
